@@ -1,0 +1,2 @@
+Line 1: Writing mode ('w')
+Line 2: Appending mode ('a')
